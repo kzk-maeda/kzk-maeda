@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kzk-maeda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzk-maeda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kzk-maeda&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzk-maeda&theme=radical" />
+</a>
 
 <!--
 **kzk-maeda/kzk-maeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
