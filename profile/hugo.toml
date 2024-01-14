@@ -1,5 +1,5 @@
 title = "kzk-maeda profile"
-baseURL = "https://example.com/"
+baseURL = "https://profile.kzk-maeda.work/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
