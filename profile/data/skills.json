@@ -1,0 +1,51 @@
+[
+  {
+    "grouping": "Cloud Platform",
+    "skills": [
+      "AWS",
+      "Google Cloud"
+    ]
+  },
+  {
+      "grouping": "Platform Development",
+      "skills": [
+          "Terraform",
+          "Serverless Framework",
+          "Ansible",
+          "CircleCI",
+          "GitHub Actions"
+        ]
+    },
+    {
+      "grouping": "Languages, Operating Systems & Tools",
+      "skills": [
+        "Python",
+        "golang",
+        "git",
+        "linux",
+        "bash"
+      ]
+    },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      "PostgreSQL",
+      "MySQL",
+      "AWS Glue",
+      "Google BigQuery",
+      "Apache Spark",
+      "Apache Airflow",
+      "Apache Kafka",
+      "Dataform",
+      "DataBricks"
+    ]
+  },
+  {
+    "grouping": "Machine Learning & AI",
+    "skills": [
+        "OpanAI API",
+        "LangChain",
+        "Amazon Bedrock"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+title = "kzk-maeda profile"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Chiba, Japan"
+email = "kzk.maeda0711@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Kazuki"
+lastName = "Maeda"
+profileImage = "img/profile.jpg"
+showQr = false
+showContact = false
+sections = ["skills", "experience"]
+showSocializations = true
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/kzk-maeda/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/kzk-maeda/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://twitter.com/kzk_maeda"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://youtrust.jp/users/969a8bab45b7e31a5f60c28d4dfa7dab"
+name = "Youtrust"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
