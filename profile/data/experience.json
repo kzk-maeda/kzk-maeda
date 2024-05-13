@@ -1,26 +1,26 @@
 [
-    {
-        "role":"SRE/Data Engineer/Engineering Manager",
-        "company":"atama plus Inc.",
-        "summary":"- Led several engineering team (up to 6 members). \n- Led and created SRE/Data Engineer team",
-        "range":"Octorber 2022 - Present"
-    },
-    {
-        "role":"SRE/Data Engineer/Engineering Manager",
-        "company":"Progate Inc.",
-        "summary":"- Led whole engineering team (up to 20 members). \n- Led and created SRE/Data Engineer team",
-        "range":"Octorber 2020 - September 2022"
-    },
-    {
-        "role":"Platform Engineer, Project Manager",
-        "company":"Recruit Inc.",
-        "summary":"- Expedited the synergies of collaborative agile tooling.",
-        "range":"Nobember 2014 - September 2020"
-    },
-    {
-        "role":"Patent assistant",
-        "company":"Panasonic Inc.",
-        "summary":"- Write patent documents and manage patent strategy.",
-        "range":"April 2013 - Octorber 2014"
-    }
+  {
+    "role": "SRE/Data Engineer/Engineering Manager",
+    "company": "atama plus Inc.",
+    "summary": "- Led several engineering team (up to 6 members). \n- Led and created SRE/Data Engineer team\n- Manage DevRel team",
+    "range": "Octorber 2022 - Present"
+  },
+  {
+    "role": "SRE/Data Engineer/Engineering Manager",
+    "company": "Progate Inc.",
+    "summary": "- Led whole engineering team (up to 20 members). \n- Led and created SRE/Data Engineer team",
+    "range": "Octorber 2020 - September 2022"
+  },
+  {
+    "role": "Platform Engineer, Project Manager",
+    "company": "Recruit Inc.",
+    "summary": "- Expedited the synergies of collaborative agile tooling.",
+    "range": "Nobember 2014 - September 2020"
+  },
+  {
+    "role": "Patent assistant",
+    "company": "Panasonic Inc.",
+    "summary": "- Write patent documents and manage patent strategy.",
+    "range": "April 2013 - Octorber 2014"
+  }
 ]
