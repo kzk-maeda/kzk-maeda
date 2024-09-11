@@ -1,23 +1,24 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kzk-maeda&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzk-maeda&theme=radical" />
-</a>
+![Your Name's GitHub Banner](https://your-banner-url.com)
 
-<!--
-**kzk-maeda/kzk-maeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Job Title] based in [Your Location]. I love [mention your interests or specialties, e.g., "coding in Python", "building scalable web apps", "contributing to open-source projects", etc.].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzk-maeda&show_icons=true&hide=contribs,prs&theme=buefy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzk-maeda&layout=compact&theme=buefy)
+
+
+---
+
+## 📫 How to reach me
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kzk-maeda/)
+- **X:** [X Profile](https://x.com/kzk_maeda)
+- **Youtrust:** [Youtrust Profile](https://youtrust.jp/users/kzk_maeda)
+- **SpeakerDeck:** [SpeakerDeck Slides](https://speakerdeck.com/kzkmaeda)
+
