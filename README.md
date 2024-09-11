@@ -1,8 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-![Your Name's GitHub Banner](https://your-banner-url.com)
-
-I'm a [Your Job Title] based in [Your Location]. I love [mention your interests or specialties, e.g., "coding in Python", "building scalable web apps", "contributing to open-source projects", etc.].
+# Hi there 👋
 
 ---
 
